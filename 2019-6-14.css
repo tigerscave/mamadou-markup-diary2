@@ -1,0 +1,47 @@
+
+.header {
+    color: blue;
+    text-align: center;
+}
+
+
+.div__email {
+    text-align: center;
+}
+
+.div__password {
+    text-align: center;
+}
+
+.div__login {
+    text-align: center;
+}
+
+.input__email {
+    background-color: red;
+}
+
+#publish-time {
+    color: red;
+    border: 1px solid blue;
+    background-color: brown;
+}
+
+.main {
+    background-color: yellow;
+    font-family: cursive;
+    text-transform: capitalize;
+}
+
+#select {
+    color: teal;
+}
+
+#info {
+    color: red;
+    font-size: 2em;
+    padding-top: 100px;
+    font-family: Georgia;
+    font-weight: bold;
+    text-align: center;
+}

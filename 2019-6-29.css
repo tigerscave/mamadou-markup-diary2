@@ -1,0 +1,109 @@
+html, body {
+    font-family: sans-serif;
+    line-height: 1.15;
+   // -webkit-text-size-adjust: 100%;
+  // background: red;
+    padding: 8rem;
+}
+body {
+   
+}
+
+body {
+    margin: 0;
+}
+body {
+    display: block;
+    margin: 8px;
+}
+.header {
+    background: tomato;
+}
+.wrapper {
+    display: flex;
+    flex-flow: row wrap;
+    flex-direction: row;
+    flex-wrap: wrap;
+    font-weight: bold;
+    text-align: center;
+}
+}
+.header {
+    background: tomato;
+}
+
+.wrapper > * {
+    padding: 10px;
+    flex: 1 100%;
+}
+@media (min-width: 800px)
+.main {
+    order: 2;
+}
+
+@media (min-width: 800px)
+.main {
+    flex: 3 0px;
+}
+.main {
+    text-align: center;
+    background: deepskyblue;
+}
+
+.wrapper > * {
+    padding: 10px;
+    flex: 1 100%;
+}
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+@media (min-width: 800px)
+.aside-1 {
+    order: 1;
+}
+
+@media (min-width: 600px)
+.aside {
+    flex: 1 0 0;
+}
+.aside-1 {
+    background: gold;
+}
+.wrapper > * {
+    padding: 10px;
+    flex: 1 100%;
+}
+@media (min-width: 800px)
+.aside-2 {
+    order: 3;
+}
+
+@media (min-width: 600px)
+.aside {
+    flex: 1 0 0;
+}
+.aside-2 {
+    background: hotpink;
+}
+
+.wrapper > * {
+    padding: 10px;
+    flex: 1 100%;
+}
+@media (min-width: 800px)
+.footer {
+    order: 4;
+}
+
+.footer {
+    background: lightgreen;
+}
+.wrapper > * {
+    padding: 10px;
+    flex: 1 100%;
+}
+
