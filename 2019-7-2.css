@@ -1,0 +1,17 @@
+html, body {
+    background: yellow;
+}
+hr {
+    border: 2px solid green;
+}
+#info {
+    color: forestgreen;
+}
+#mean {
+    color: blueviolet;
+    background: white;
+}
+.intro {
+    background: white;
+    color: brown;
+}
