@@ -1,7 +1,7 @@
 html, body {
     background: brown;
     margin: 0;
-    padding-top: 2rem;
+    padding: 0;
     border: 0;
     font-size: 100%;
     font: inherit;
@@ -53,4 +53,10 @@ ul {
 p {
     margin: 16px 0;
     font-family: Helvetica;
+}
+.editorial {
+    padding: 20px;
+    margin: 20px 0;
+    text-align: center;
+    color: #ffffff;
 }
